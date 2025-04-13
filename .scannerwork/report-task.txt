@@ -1,0 +1,8 @@
+organization=mounika-cicd
+projectKey=Mounika-krishna_cicd
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.61852
+branch=main
+dashboardUrl=https://sonarcloud.io/dashboard?id=Mounika-krishna_cicd&branch=main
+ceTaskId=AZYtCnyjPKu2ahljW_6E
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZYtCnyjPKu2ahljW_6E
